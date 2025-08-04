@@ -4,7 +4,7 @@ import streamlit as st
 import requests
 from datetime import datetime
 
-API_URL = 'http://localhost:5000'
+API_URL = 'https://aqua-track-m-backend.onrender.com'
 
 # --- Theme and Color Palette ---
 
